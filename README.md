@@ -13,3 +13,5 @@ from the site http://www.lyricsmode.com
 * Using regular expressions extract the quotes of the songs.
  
 * Save all the new quotes in a .txt/.cvs file
+
+* Adding the input variable for choose the artist
